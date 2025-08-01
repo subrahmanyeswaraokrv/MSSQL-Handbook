@@ -1,0 +1,124 @@
+Cluster Installation : 
+
+
+http://www.sql-server-performance.com/2007/cluster-sql-server-2005/
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+
+http://myservices.relianceada.com/launchAMSS.do-----RIM Bill Pay
+https://www.myhcl.in/home/EventZone/e_worklife.asp#--------HCL Sell/Buy
+http://technet.microsoft.com/en-gb/library/cc917628.aspx----About DTS Package
+http://support.microsoft.com/kb/224071---System database move.
+http://167.229.153.77/Citrix/AccessPlatform/site/default.aspx   ----CitrixInterfaceLink.
+http://support.microsoft.com/kb/271624-----DBCC MEMORYSTATUS
+http://indiarailinfo.com/search/664/325--Train Status
+https://cs-lon.emimusic.com/----Safe ID 
+http://isdpassword.hcl.in/password/====Password
+http://yamunaexpresswayauthority.com/
+http://seths-place.blogspot.com/====Usfull Link.
+http://SLONP163MV02.eur.emigrp.com/tmtrack/tmtrack.dll?View&I=9879&T=1000===CH
+http://in.bookmyshow.com/buytickets/?srid=NOIDA&eid=ET00001611&cid=&did=20100105&ety=MT====Spice Ticket Book.
+
+
+http://blogs.msdn.com/bartd/archive/2007/07/19/are-you-using-sql-s-missing-index-dmvs.aspx===========MISSING INDEXES DMVs
+http://www.scribd.com/doc/19348910/Sybase-Administration--SYBASE BOOK
+http://sqlserver.quest.com/thread.jspa?messageID=30768----AWE
+http://blog.sqlauthority.com/2007/02/15/sql-server-fix-error-15023-user-already-exists-in-current-database/ ---Sp_change_user_login
+http://slonp88d/Reports/Pages/Folder.aspx==SCOM Alert report for Stage servers.
+http://slonp88d/Reports/Pages/Folder.aspx?ItemPath=/Support_Checklist&ViewMode=List=========================SCOM Alert report for Stage servers.
+
+
+http://kbalertz.com/946036/Error-message-maintenance-contains-Database-Server-Executing-query.aspx=====Litespeed Failed:(-1073548784) Executing the query
+http://www.velocityreviews.com/forums/t492464-dcom-event-id-10026-a.html----SCOM 
+
+http://dict.hinkhoj.com/hindi-words/listch.php --Dictionary
+http://dotnetslackers.com/articles/sql/SQL-SERVER-JOINs.aspx----SQL Joins
+CASIO Natural Text Book Display 
+Sciencetific  Calculator.
+Fx991 ES.
+
+SLONP143EEX1.eur.emigrp.com
+
+http://troubleshootingsql.wordpress.com/2010/01/06/io-frozen-messages-while-taking-nt-backup-for-sql-databases/====HD0000000301218
+http://www.home-remedies-for-you.com/askquestion/7122/natural-remedies-for-curing-mucous-i-continually-f.html ==== HOME REMEDY
+http://msdn.microsoft.com/en-us/library/ms189748.aspx ======= ENABLE DISABLE TRIGGER
+
+
+EXEC sp_attach_db @dbname = N'pubs', 
+   @filename1 = N'c:\Program Files\Microsoft SQL Server\MSSQL\Data\pubs.mdf', 
+   @filename2 = N'c:\Program Files\Microsoft SQL Server\MSSQL\Data\pubs_log.ldf'
+http://msdn.microsoft.com/en-us/library/ms191233.aspx---Failover Logshiping
+
+itsd@hcl.in==If password not change by self write mail to them.
+http://www.novicksoftware.com/SQL-Server-Consultant.htm---SQL help 
+
+SLONP143EEX2.eur.emigrp.com---EXCHANGE SERVER
+http://www.epapershub.com/india/dainik-jagaran.html
+>ipconfig
+>ipconfig /release
+>ipconfig /renew
+>ipconfig /dnsflush
+http://www.pantz.org/software/mysql/mysqlcommands.html == MySQL Basic commands.
+http://vyaskn.tripod.com/sql_server_security_best_practices.htm========SQL Server best Secqurity Practice.
+
+http://www.sqlbackuprestore.com/backuprestorehistorytables.htm===info site
+\\167.229.221.25 == Xerox
+http://sqlserverpedia.com/wiki/Trace_Flags===========>dbcc traceon
+http://social.msdn.microsoft.com/Forums/en/sqlsecurity/thread/4fab1ac4-d601-4cae-8619-fbfea3b4c2c8======User mapped with login 'dbo' issue.
+http://sqlserverimpressions.blogspot.com/2008/10/grant-permissions-to-view-stored.html===Grant vew definition
+http://www.timezoneconverter.com/cgi-bin/tzc.tzc===== Time Converter
+http://sql-articles.com/articles/troubleshooting/troubleshooting-login-failed-error-18456/ ===== Login fail.
+==============================================================================
+
+http://www.bigresource.com/MS_SQL-Could-not-allocate-new-page-for-database-039-TEMPDB-039-Help-mdsvbAic.html === Tempdb full
+http://www.sqlservercentral.com/blogs/glennberry/archive/2009/10/29/suggested-max-memory-settings-for-sql-server-2005_2F00_2008.aspx
+inf password : EUR_inf
+stageinf password : EUR_stage
+=============
+http://www.mouthshut.com/review/General-Advise-on-an-Electric-Chimney-uprunmqrqm
+http://www.mouthshut.com/product-reviews/General-Advise-on-an-Electric-Chimney-925022427
+=====================
+http://www.accelebrate.com/sql_training/ssrs_tutorial.htm ==== SSRS
+\\167.229.221.25
+http://sites.google.com/site/14011984p/i-g-n-o-u-mba-students-corner/previous-years-tee-solved-papers 
+http://www.speakindiaonline.com/
+vlonr082d.infra.fomint.com==DBA==Anna@123==vlonr082d\DBA
+http://en.wikipedia.org/wiki/Microsoft_SQL_Server
+http://blogs.msdn.com/b/jorgepc/archive/2007/12/09/how-to-check-fragmentation-on-sql-server-2005.aspx============fragmentation
+http://www.google.com/notebook/public/16730883048104801209/BDSaHLAoQmM7Y_NMh == Error message and meaning.
+http://tutorials.aspfaq.com/8000xxxxx-errors/80004005-errors.htm l== Error message and meaning.
+http://support.microsoft.com/kb/842425===How to move a Reporting Services database from a computer that is running Reporting Services to another computer
+=======================
+http://assignments4you.com/ ; http://ignoublog.com/1/ms-25-july-2011/
+http://www.mywaytoo.com/Pages/alphabet.html---ABC practice
+http://www.tlsbooks.com/handwritingworksheets.htm--ABC 123 practice
+\\c-noia234
+http://www.simple-talk.com/sql/performance/sql-server-performance-crib-sheet/-----SQL Perf analysis
+http://www.databasejournal.com/features/mssql/article.php/3789881/Proxy-Accounts-in-SQL-Server.htm----proxy account
+http://www.simple-talk.com/sql/reporting-services/five-basic-steps-for-implementing-an-analysis-services-database/------Analysis services
+http://www.yolinux.com/TUTORIALS/LinuxTutorialMySQL.html--mysql command
+http://ceouttarpradesh.nic.in/
+
+http://communities.quest.com/thread/4326?tstart=0
+https://support.quest.com/Search/SolutionDetail.aspx?id=SOL68949&category=Solutions&SKB=1 ====== LiteSpeed - Failed to login to SQL Server 
+http://en.wikipedia.org/wiki/Standard_normal_table  ========= Standard normal table
+http://support.microsoft.com/kb/246133===Login password transfer
+http://support.microsoft.com/kb/918992/-- seems not effective
+http://my.safaribooksonline.com/book/databases/microsoft-sql-server/9781935182047/tracing-the-deadlock/551=====deadlock
+http://www.vikramlakhotia.com/Granting_Execute_permission_on_All_Stored_Procedure_for_a_new_SQL_Server_User.aspx---Grant permission SP
+http://blog.logiclabz.com/sql-server/sql-to-grant-execute-permission-to-all-procedures-and-functions.aspx---Grant permission on Function
+http://www.sqlmonster.com/Uwe/Forum.aspx/sql-server/26555/Determining-table-for-a-particular-File-id-Page-No ---- deadlock page read
+http://my.safaribooksonline.com/book/databases/microsoft-sql-server/9781935182047/tracing-the-deadlock/551#X2ludGVybmFsX0ZsYXNoUmVhZGVyP3htbGlkPTk3ODE5MzUxODIwNDcvNTUz ===read deadlock object get from page details.
+http://blogs.msdn.com/b/bartd/archive/2007/07/19/are-you-using-sql-s-missing-index-dmvs.aspx-----------Missing index using DMVs
+RCA:   https://gdr.emihub.com/Pages/Steady%20State%20Governance.aspx?RootFolder=%2fSteady%20State%20Governance%20Documents%2fRoot%20Cause%20Analysis%20Documents%2fGIS&FolderCTID=&View=%7b7684F5E0%2dCE7C%2d47B7%2dB9C0%2dCA2F73618E81%7d   
+
+C:\Program Files\Microsoft SQL Server\MSRS10_50.B2B\Reporting Services\LogFiles
+
+http://www.ignou4ublog.com/2009
+http://www.readymadeproject.com/filesapproved/mba/Marketing%20Management/Reasons%20for%20brand%20failure.doc
+As per discussion with , In recent past they have been accessing
+In order to access the application they want
