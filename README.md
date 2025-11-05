@@ -87,4 +87,4 @@ DBA Checklist - Brent Ozar
 👨‍💻 Maintainers
 Venkata Subrahmanyeswarao Karri – Sr. Database Architect
 
-Contact: db-admin@example.com | Location: India
+Contact: subrahmanyeswaraokarri@gmail.com | Location: Hyderabad,India
